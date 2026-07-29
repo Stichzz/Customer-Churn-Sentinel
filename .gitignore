@@ -1,0 +1,21 @@
+# Ignore Virtual Environment
+
+venv/
+.venv/
+env/
+
+# Ignore Large Data Files 
+
+data/raw/*.csv
+data/processed/*.csv
+*.csv
+
+# Ignore Python cache & Jupyter Checkpoints
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Ignore VS Code Local User Settings
+
+.vscode/
