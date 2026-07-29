@@ -29,8 +29,6 @@ This project implements a **class-balanced machine learning model** paired with 
 
 ---
 
-## 🛠️ Project Architecture & Tech Stack
-
 ## 🛠️ Tech Stack & System Architecture
 
 | Architecture Layer | Tools & Technologies |
