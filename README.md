@@ -44,17 +44,18 @@ This project implements a **class-balanced machine learning model** paired with 
 
 ```text
 customer-churn-sentinel/
-│
 ├── data/
-│   ├── raw/               # Raw input dataset (ignored in Git)
-│   └── processed/         # Cleaned data with churn probabilities
-│
+│   ├── raw/
+│   └── processed/
 ├── models/
-│   └── random_forest_churn.pkl  # Trained Random Forest model
-│
+│   └── churn_model.pkl
 ├── notebooks/
-│   └── 01_eda_and_tuning.ipynb  # Data cleaning, EDA, & ML tuning
-│
-├── .gitignore             # Git exclusion rules
-├── README.md              # Project documentation
-└── requirements.txt       # Dependencies
+│   └── churn_prediction.ipynb
+├── reports/
+│   ├── customer_churn_dashboard.pbix
+│   ├── executive_overview_1.png
+│   ├── executive_overview_2.png
+│   └── high_risk_action_center.png
+├── .gitignore
+├── README.md
+└── requirements.txt
