@@ -1,7 +1,8 @@
 ## 📉 Executive Power BI Dashboard
 
 ### 1. Executive Churn Overview
-![Executive Overview](reports/executive_overview.png)
+![Executive Overview 1](reports/executive_overview_1.png)
+![Executive Overview 2](reports/executive_overview_2.png)
 
 ### 2. High-Risk Customer Action Center
 ![High-Risk Action Center](reports/high_risk_action_center.png)
