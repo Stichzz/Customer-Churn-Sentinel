@@ -31,12 +31,18 @@ This project implements a **class-balanced machine learning model** paired with 
 
 ## 🛠️ Project Architecture & Tech Stack
 
-* **Language:** Python 3.11
-* **Data Processing & EDA:** Pandas, NumPy
-* **Visualization:** Seaborn, Matplotlib
-* **Machine Learning:** Scikit-Learn (Random Forest Classifier, Threshold Tuning)
-* **Model Export:** Joblib
-* **Business Intelligence:** Power BI
+## 🛠️ Tech Stack & System Architecture
+
+| Architecture Layer | Tools & Technologies |
+| :--- | :--- |
+| **Language & Environment** | Python 3.11, Virtual Environment (`venv`), Git/GitHub |
+| **Data Ingestion & Storage** | Raw CSV Datasets |
+| **Data Processing & EDA** | Pandas, NumPy |
+| **Data Visualization** | Seaborn, Matplotlib |
+| **Machine Learning & Modeling**| Scikit-Learn (Random Forest, Pipeline, Threshold Tuning) |
+| **Model Evaluation** | Precision-Recall Curves, F1-Score, Confusion Matrix |
+| **Model Persistence** | Joblib (`.pkl`) |
+| **Business Intelligence & BI** | Power BI (DAX, Data Modeling, Predictive Action Dashboards) |
 
 ---
 
